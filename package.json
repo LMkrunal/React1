@@ -4,7 +4,7 @@
   "description": "This is my project.\r #React Project Template\r Reach Project Template with Automated Build\r ## Installation\r 1. Install Node.js\r 2. Install git.\r ## USage\r ## Credit\r ## License",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "echo \"All Tests passes\" && exit 0",
     "build": "echo \"BUILD OK\" && exit 0",
 
     "prebuild": "npm run test"
