@@ -4,12 +4,12 @@
   "description": "This is my project.\r #React Project Template\r Reach Project Template with Automated Build\r ## Installation\r 1. Install Node.js\r 2. Install git.\r ## USage\r ## Credit\r ## License",
   "main": "index.js",
   "engines": {
-    "node": "8.11.2"
+    "node": "8.12.0"
   },
   "scripts": {
     "test": "echo \"All Tests passes\" && exit 0",
     "build": "echo \"BUILD OK\" && exit 0",
-    "prebuild": "npm run test",
+    "prebuild": "npm run version && npm run test",
     "version": "node verison-check.js"
   },
   "author": "",
