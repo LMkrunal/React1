@@ -1,0 +1,11 @@
+{
+  "name": "webstorm",
+  "version": "1.0.0",
+  "description": "This is my project.\r #React Project Template\r Reach Project Template with Automated Build\r ## Installation\r 1. Install Node.js\r 2. Install git.\r ## USage\r ## Credit\r ## License",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
